@@ -1,3 +1,10 @@
+/*
+    Group 3
+    Maestro, Syranne Jahziel
+    Morada, Justin Paul
+    Sumaylo, Regine
+*/
+
 public class MyDate {
     
     //instance variables
